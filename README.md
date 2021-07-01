@@ -6,5 +6,5 @@ You can join the docker group in a single usage through<br />
 
 
 You can run the app on localhost by using<br />
-`docker run -dp 3000:3000 getting-started`<br />
+`docker-compose up`<br />
 And should be available in your browser at http://localhost:3000
